@@ -2,4 +2,5 @@
 "Hello from master branch" and  
 =======
 "Hello from feature branch"  
->>>>>>> feature-navbar
+>>>>>>> feature-navbar 
+doing changes in github
