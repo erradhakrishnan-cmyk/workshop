@@ -1,1 +1,5 @@
-"Hello from master branch"  
+<<<<<<< HEAD
+"Hello from master branch" and  
+=======
+"Hello from feature branch"  
+>>>>>>> feature-navbar
